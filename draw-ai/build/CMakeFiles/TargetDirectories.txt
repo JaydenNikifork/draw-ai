@@ -1,0 +1,3 @@
+/mnt/d/Projects/draw-ai/draw-ai/build/CMakeFiles/main1.dir
+/mnt/d/Projects/draw-ai/draw-ai/build/CMakeFiles/edit_cache.dir
+/mnt/d/Projects/draw-ai/draw-ai/build/CMakeFiles/rebuild_cache.dir
